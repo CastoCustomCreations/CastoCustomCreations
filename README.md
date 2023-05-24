@@ -22,10 +22,10 @@ Full Stack Software Engineer
 <p align="left">
   
 <a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/angular.png" width="50" height="50" alt="Angular" /></a>   
-<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/react.png" width="50" height="50" alt="React" /></a>   
-<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/vue.png" width="50" height="50" alt="Vue" /></a>   
-<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspnet.png" width="50" height="50" alt="ASP.net" /></a>   
-<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/angular.png" width="50" height="50" alt="ASP.core" /></a>   
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/reactjs.png" width="50" height="50" alt="React" /></a>   
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/vue.png" width="50" height="50" alt="Vue" /></a>   
+<a href="https://learn.microsoft.com/en-us/dotnet/framework/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspmvc.png" width="50" height="50" alt="ASP.net" /></a>   
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspcore.png" width="50" height="50" alt="ASP.core" /></a>   
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
