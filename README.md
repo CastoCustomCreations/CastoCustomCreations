@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noopener"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/cplusplus.png" width="50" height="50" alt="C++" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/csharp.png" width="50" height="50" alt="C#" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">C#<img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/csharp.png" width="50" height="50" alt="C#" /></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/java.png" width="50" height="50" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/javascript.png" width="50" height="50" alt="JavaScript#" /></a>
 <a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/kotlin.png" width="50" height="50" alt="Kotlin" /></a>
@@ -20,6 +20,13 @@ Full Stack Software Engineer
 ### Frontend
 
 <p align="left">
+  
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/angular.png" width="50" height="50" alt="Angular" /></a>   
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/react.png" width="50" height="50" alt="React" /></a>   
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/vue.png" width="50" height="50" alt="Vue" /></a>   
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspnet.png" width="50" height="50" alt="ASP.net" /></a>   
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/angular.png" width="50" height="50" alt="ASP.core" /></a>   
+
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
@@ -66,7 +73,9 @@ Full Stack Software Engineer
 
 <a href="https://github.com/CastoCustomCreations" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CastoCustomCreations&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Support Me
 
+<a href="https://www.buymeacoffee.com/castocustomcreations"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
