@@ -1,7 +1,7 @@
 ### Hello![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jen Casto
 Full Stack Software Engineer
 
-I recently graduated <img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/Kent_State_seal.png" width="50" height="50" alt="KSU" /> Kent State University
+<img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/Kent_State_seal.png" width="50" height="50" alt="KSU" /> Kent State University Graduate
 ### Coding Languages
 
 <p align="left">
