@@ -56,7 +56,7 @@ Full Stack MERN Engineer
 </p>
 
 
-
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/castocustomcreations/profile-icons/cplusplus.png" width="36" height="36" alt="C++" /></a>
 
 
 
