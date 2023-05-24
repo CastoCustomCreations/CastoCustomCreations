@@ -19,8 +19,7 @@ Full Stack Software Engineer
 
 ### Frontend
 
-<p align="left">
-  
+<p align="left">  
 <a href="https://angular.io/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/angular.png" width="50" height="50" alt="Angular" /></a>   
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/reactjs.png" width="50" height="50" alt="React" /></a>   
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/vue.png" width="50" height="50" alt="Vue" /></a>   
