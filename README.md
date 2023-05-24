@@ -12,9 +12,8 @@ Full Stack MERN Engineer
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/html.png" width="50" height="50" alt="HTML5" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/css.png" width="50" height="50" alt="CSS" /></a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/typescript.png" width="50" height="50" alt="Typescript" /></a>
-<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/python.png" width="50" height="50" alt="Python" /></a>
-  
-<a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/kotlin.png" width="50" height="50" alt="Kotlin" /></a>
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/python.png" width="50" height="50" alt="Python" /></a>  
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/php.png" width="50" height="50" alt="PHP" /></a>
   
   
   
