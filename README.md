@@ -5,8 +5,8 @@ Full Stack Software Engineer
 ### Coding Languages
 
 <p align="left">
-<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noopener"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/cplusplus.png" width="50" height="50" alt="C++" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">C#<img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/csharp.png" width="50" height="50" alt="C#" /></a>
+<a href="https://learn.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noopener"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/cplusplus.png" width="50" height="50" alt="C++"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/csharp.png" width="50" height="50" alt="C#" /></a>
 <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/java.png" width="50" height="50" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/javascript.png" width="50" height="50" alt="JavaScript#" /></a>
 <a href="https://kotlinlang.org/docs/home.html" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/kotlin.png" width="50" height="50" alt="Kotlin" /></a>
