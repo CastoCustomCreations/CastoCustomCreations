@@ -24,21 +24,23 @@ Full Stack Software Engineer
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/reactjs.png" width="50" height="50" alt="React" /></a>   
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/vue.png" width="50" height="50" alt="Vue" /></a>   
 <a href="https://learn.microsoft.com/en-us/dotnet/framework/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspmvc.png" width="50" height="50" alt="ASP.net" /></a>   
-<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspcore.png" width="50" height="50" alt="ASP.core" /></a>   
-
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspcore.png" width="50" height="50" alt="ASP.core" /></a>  
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/tailwind.png" width="50" height="50" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/bootstrap.png" width="50" height="50"  alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/redux.png" width="50" height="50" alt="Redux" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/vitejs.png" width="50" height="50"alt="Vite" /></a>
 </p>
 
 ### Backend and DataBase
 
 <p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nodejs.png" width="50" height="50" alt="SQLServer" /></a> 
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/mysql.png" width="50" height="50"  alt="MySQL" /></a>
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/mongodb.png" width="50" height="50"  alt="MongoDB" /></a>
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nodejs.png" width="50" height="50" alt="NodeJS" /></a> 
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/expressjs.png" width="50" height="50"  alt="Express" /></a>
+
+
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
