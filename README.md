@@ -26,13 +26,8 @@ Full Stack Software Engineer
 <a href="https://learn.microsoft.com/en-us/dotnet/framework/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspmvc.png" width="50" height="50" alt="ASP.net" /></a>   
 <a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-7.0" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/aspcore.png" width="50" height="50" alt="ASP.core" /></a>   
 
-
-
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/tailwind.png" width="50" height="50" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/bootstrap.png" width="50" height="50"  alt="Bootstrap" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </p>
