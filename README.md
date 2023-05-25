@@ -34,29 +34,32 @@ Full Stack Software Engineer
 ### Backend and DataBase
 
 <p align="left">
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nodejs.png" width="50" height="50" alt="SQLServer" /></a> 
+ <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/sqlserver.png" width="50" height="50" alt="SQLServer" /></a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/mysql.png" width="50" height="50"  alt="MySQL" /></a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/mongodb.png" width="50" height="50"  alt="MongoDB" /></a>
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nodejs.png" width="50" height="50" alt="NodeJS" /></a> 
- <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/expressjs.png" width="50" height="50"  alt="Express" /></a>
-
-
-<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/expressjs.png" width="50" height="50"  alt="Expressjs" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/firebase.png" width="50" height="50" alt="Firebase" /></a>
+<a href="https://classic.yarnpkg.com/en/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/Yarn.png" width="50" height="50" alt="Yarn" /></a>
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nextjs.png" width="50" height="50" alt="NextJs" /></a>
+<a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/NextAuthJs.png" width="50" height="50" alt="NextAuth" /></a>
 </p>
-
 ### Other
 
 <p align="left">
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/powershell.png" width="50" height="50" alt="Powershell" /></a>
+<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/gitbash.png" width="50" height="50" alt="Gitbash" /></a>
+<a href="https://learning.postman.com/docs/introduction/overview/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/postman.png" width="50" height="50" alt="PostMan" /></a>
+<a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/android.png" width="50" height="50" alt="Android" /></a>
+
 </p>
 
 ### Media Editing
 
 <p align="left">
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://helpx.adobe.com/photoshop/user-guide.html" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/adobeps.png" width="50" height="50"  alt="Photoshop" /></a>
+<a href="https://helpx.adobe.com/premiere-pro/user-guide.html" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/adobepr.png" width="50" height="50" alt="Premiere Pro" /></a>
+ <a href="https://helpx.adobe.com/after-effects/user-guide.html" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/adobeae.png" width="50" height="50" alt="After Effects" /></a>
 </p>
 
 
