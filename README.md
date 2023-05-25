@@ -48,7 +48,7 @@ Full Stack Software Engineer
 
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/powershell.png" width="50" height="50" alt="Powershell" /></a>
-<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/gitbash.png" width="50" height="50" alt="Gitbash" /></a>
+<a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/GitBash.png" width="50" height="50" alt="Gitbash" /></a>
 <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/postman.png" width="50" height="50" alt="PostMan" /></a>
 <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/android.png" width="50" height="50" alt="Android" /></a>
 
