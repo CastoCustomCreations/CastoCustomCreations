@@ -44,6 +44,7 @@ Full Stack Software Engineer
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nextjs.png" width="50" height="50" alt="NextJs" /></a>
 <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/NextAuthJs.png" width="50" height="50" alt="NextAuth" /></a>
 </p>
+
 ### Other
 
 <p align="left">
