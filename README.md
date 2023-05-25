@@ -37,10 +37,8 @@ Full Stack Software Engineer
  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/sqlserver.png" width="50" height="50" alt="SQLServer" /></a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/mysql.png" width="50" height="50"  alt="MySQL" /></a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/mongodb.png" width="50" height="50"  alt="MongoDB" /></a>
- <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nodejs.png" width="50" height="50" alt="NodeJS" /></a> 
  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/expressjs.png" width="50" height="50"  alt="Expressjs" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/firebase.png" width="50" height="50" alt="Firebase" /></a>
-<a href="https://classic.yarnpkg.com/en/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/Yarn.png" width="50" height="50" alt="Yarn" /></a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nextjs.png" width="50" height="50" alt="NextJs" /></a>
 <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/NextAuthJs.png" width="50" height="50" alt="NextAuth" /></a>
 </p>
@@ -50,6 +48,8 @@ Full Stack Software Engineer
 <p align="left">
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/powershell.png" width="50" height="50" alt="Powershell" /></a>
 <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/GitBash.png" width="50" height="50" alt="Gitbash" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/nodejs.png" width="50" height="50" alt="NodeJS" /></a> 
+<a href="https://classic.yarnpkg.com/en/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/Yarn.png" width="50" height="50" alt="Yarn" /></a>
 <a href="https://learning.postman.com/docs/introduction/overview/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/postman.png" width="50" height="50" alt="PostMan" /></a>
 <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/android.png" width="50" height="50" alt="Android" /></a>
 
