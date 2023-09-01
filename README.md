@@ -14,7 +14,8 @@ Full Stack Software Engineer
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/css.png" width="50" height="50" alt="CSS" /></a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/typescript.png" width="50" height="50" alt="Typescript" /></a>
 <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/python.png" width="50" height="50" alt="Python" /></a>  
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/php.png" width="50" height="50" alt="PHP" /></a>   
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/php.png" width="50" height="50" alt="PHP" /></a>
+ <a href="https://docs.oracle.com/en/database/oracle/oracle-database/19/sqlrf/#Oracle%C2%AE-Database" target="_blank" rel="noreferrer"><img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/sql.png" width="50" height="50" alt="SQL" /></a>
 </p>
 
 ### Frontend
