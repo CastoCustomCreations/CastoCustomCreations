@@ -2,7 +2,7 @@
 Full Stack Software Engineer
 
 <img src="https://github.com/CastoCustomCreations/profile-icons/blob/main/Kent_State_seal.png" width="50" height="50" alt="KSU" /> Kent State University Graduate
-### **** All Icons Lead to Documentation ****
+### All Icons Lead to Documentation
 
 ### Coding Languages
 
