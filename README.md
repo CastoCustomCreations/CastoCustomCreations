@@ -1,3 +1,5 @@
+### * ALL ICONS ARE CLICKABLE LEADING TO DOCUMENTATION AND TRAINING 
+
 ### Coding Languages
 
 <p align="left">
